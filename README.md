@@ -5,7 +5,7 @@ This repository contains code and resources for conducting analysis on employee 
 
 **I completed this analysis as part of my 1 month internship at Unified Mentor. I was asked to analyze the employee attrition data &amp; come up with meaningful insights.**
 
-[Tableau Dashboard](https://public.tableau.com/app/profile/veerpratap.jaiswal/viz/GreenDestinationAttritionDataAnalysis_17162636792000/Dashboard)
+[Tableau Dashboard](https://public.tableau.com/app/profile/subhajit.datta7401/viz/GreenDestinationAttritionDataAnalysis_17307009862940/Dashboard?publish=yes)
 
 ###  Data Sources
 
